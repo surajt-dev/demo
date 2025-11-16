@@ -1,2 +1,5 @@
 # demo
-my first repository
+my first repository in github
+<br>
+author - suraj t
+
